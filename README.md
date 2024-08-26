@@ -15,7 +15,7 @@ To install the required dependencies, run:
 ```bash
 pip install requests
 
-
+'''
 ###Disclaimer
 
 This project is intended for educational purposes only. Be aware of Instagram's terms of service and use this script responsibly.
